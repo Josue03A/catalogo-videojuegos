@@ -17,3 +17,8 @@ Este proyecto es una aplicación web sencilla construida en React  que permite e
 ##  Reflexión sobre la Utilidad de la IA
 
 El uso de inteligencia artificial agilizó significativamente el desarrollo del proyecto, desde la idea inicial hasta la ejecución final. Me permitió resolver problemas técnicos de forma inmediata, proponer diseños atractivos sin experiencia previa en UI, y obtener ejemplos funcionales listos para usar. La IA no reemplazó el pensamiento crítico, pero fue una herramienta poderosa para acelerar y mejorar el trabajo.
+
+## Ejemplo visual
+
+![Catálogo de videojuegos](./assets/ejemplo1.png)
+![Catálogo de videojuegos](./assets/ejemplo2.png)
